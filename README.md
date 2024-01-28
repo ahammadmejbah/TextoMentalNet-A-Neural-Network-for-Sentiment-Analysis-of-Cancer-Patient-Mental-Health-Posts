@@ -67,6 +67,7 @@
 
 7. **Evaluation**:
    - **Performance Metrics**: Metrics such as accuracy, precision, recall, and F1-score would be used to evaluate the model's performance, using a separate validation and test set not seen during training.
+![image](https://github.com/BytesOfIntelligences/TextoMentalNet-A-Neural-Network-for-Sentiment-Analysis-of-Cancer-Patient-Mental-Health-Posts/assets/56669333/0828d1e8-785d-4906-8393-fea79423192e)
 
 8. **Deployment**:
    - **API or Application**: Once trained and evaluated, TextoMentalNet could be deployed as an API or integrated into healthcare applications to provide real-time sentiment analysis of cancer patient mental health posts, potentially offering insights to healthcare providers and support services.
