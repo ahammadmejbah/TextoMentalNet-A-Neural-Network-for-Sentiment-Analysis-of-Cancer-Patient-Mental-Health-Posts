@@ -1,1 +1,5 @@
-
+pip install numpy == 1.25
+pip install pandas == 2.2.0
+pip install matplotlib == 3.10.2
+pip install nltk
+pip install scikit-learn == 1.4.0
